@@ -1,5 +1,5 @@
 ---
-title: 'Convex Optimisation-3'
+title: 'Convex Optimization-3'
 date: 2022-08-09
 permalink: /posts/2022/08/blog-post-7/
 ---
@@ -10,7 +10,7 @@ descr = """
     Strict and strong convexity, Bregman divergences, and the link between Lipschitz
     continuity and strong convexity.
     """
-tags = ["optimisation"]
+tags = ["optimization"]
 +++
 -->
 {{redirect /pub/csml/cvxopt/ca3.html}}
@@ -185,7 +185,7 @@ Rearranging terms yields
     \|x-z\|_{2} &\le& {1\over \mu}\| u-v\|_2.
 } <!--_-->
 
-Since $x\in C^\circ$ and $u=\nabla \varphi(x)$, we can write $x = \nabla \varphi^\star(u)$ and similarly, $z=\nabla\varphi^\star(v)$ (see [convex analysis part 2](/posts/2018/09/24-convex-optimisation-2/)).
+Since $x\in C^\circ$ and $u=\nabla \varphi(x)$, we can write $x = \nabla \varphi^\star(u)$ and similarly, $z=\nabla\varphi^\star(v)$ (see [convex analysis part 2](/posts/2018/09/24-convex-optimization-2/)).
 This shows that the gradient $\nabla\varphi^\star$ is Lispchitz-continuous.
 
 @@colbox-blue
