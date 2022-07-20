@@ -1,6 +1,6 @@
 ---
 title: 'Convex Optimisation-Intro'
-date: 2022-08-14
+date: 2022-08-09
 permalink: /posts/2022/08/blog-post-10/
 ---
 +++
