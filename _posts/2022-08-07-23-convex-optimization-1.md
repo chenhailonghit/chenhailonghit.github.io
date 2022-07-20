@@ -1,5 +1,5 @@
 ---
-title: 'Convex Optimisation-1'
+title: 'Convex Optimization-1'
 date: 2022-08-07
 permalink: /posts/2022/08/blog-post-12/
 ---
