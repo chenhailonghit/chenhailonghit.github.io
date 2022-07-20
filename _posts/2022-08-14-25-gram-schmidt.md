@@ -6,9 +6,6 @@ permalink: /posts/2022/08/blog-post-14/
 <!--
 
 +++
-title = "Gram-Schmidt Orthogonalisation"
-mintoclevel = 2
-
 descr = """
     Gram-Schmidt, Modified Gram-Schmidt, QR factorisation, with code.
     """
