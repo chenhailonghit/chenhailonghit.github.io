@@ -3,6 +3,7 @@ title: 'Projected gradient descent'
 date: 2022-08-14
 permalink: /posts/2022/08/blog-post-9/
 ---
+<!--
 +++
 title = "Projected gradient descent"
 descr = """
@@ -10,6 +11,7 @@ descr = """
     """
 tags = ["optimisation", "projected gradient descent"]
 +++
+-->
 
 {{redirect /pub/csml/cvxopt/pgd.html}}
 
