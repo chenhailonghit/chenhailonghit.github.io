@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 17'
+title: 'QR for eigen decomposition'
 date: 2012-08-14
 permalink: /posts/2012/08/blog-post-17/
 ---
