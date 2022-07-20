@@ -16,7 +16,7 @@ main:
     #url: /portfolio/
         
   - title: "Posts"
-    url: /_posts/
+    url: /year-archive/
     
   #- title: "Guide"
     #url: /markdown/
