@@ -1,17 +1,16 @@
 ---
 title: 'Convex Optimisation-2'
 date: 2022-08-14
-descr = """The convex conjugate, Fenchel's inequality, and the Fenchel-Moreau theorem."""
-tags = ["optimisation"]
 permalink: /posts/2022/08/blog-post-13/
 ---
 
 {{redirect /pub/csml/cvxopt/ca2.html}}
 
 <!--
+descr = """The convex conjugate, Fenchel's inequality, and the Fenchel-Moreau theorem."""
+tags = ["optimisation"]
 NOTE:
 last major review: 19/9/2018 ✅
-
 -->
 
 # Convex analysis (part II)
