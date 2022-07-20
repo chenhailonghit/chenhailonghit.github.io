@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 14'
+title: 'Gram-Schmidt Orthogonalisation'
 date: 2012-08-14
 permalink: /posts/2012/08/blog-post-14/
 ---
