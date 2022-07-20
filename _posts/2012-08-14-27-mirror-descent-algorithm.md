@@ -1,10 +1,9 @@
 ---
-title: 'Blog Post number 15'
+title = "Mirror descent algorithm"
 date: 2012-08-14
 permalink: /posts/2012/08/blog-post-15/
 ---
 +++
-title = "Mirror descent algorithm"
 descr = """
     The Generalised Projected Gradient Descent (GPGD) and the Mirror Descent Algorithm (MDA).
     """
