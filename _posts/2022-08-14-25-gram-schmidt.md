@@ -1,7 +1,7 @@
 ---
 title: 'Gram-Schmidt Orthogonalisation'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-14/
+date: 2022-08-14
+permalink: /posts/2022/08/blog-post-14/
 ---
 +++
 title = "Gram-Schmidt Orthogonalisation"
