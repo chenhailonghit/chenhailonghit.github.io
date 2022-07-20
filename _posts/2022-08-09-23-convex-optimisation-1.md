@@ -3,6 +3,8 @@ title: 'Convex Optimisation-1'
 date: 2022-08-09
 permalink: /posts/2022/08/blog-post-12/
 ---
+
+<!--
 +++
 title = "Convex analysis &ndash; pt. I"
 descr = """
@@ -10,7 +12,7 @@ descr = """
     """
 tags = ["optimisation"]
 +++
-
+-->
 {{redirect /pub/csml/cvxopt/ca1.html}}
 
 # Convex analysis (part I)
