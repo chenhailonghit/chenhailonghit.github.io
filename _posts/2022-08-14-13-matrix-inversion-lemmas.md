@@ -1,7 +1,7 @@
 ---
 title: 'Matrix inversion lemmas'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-11/
+date: 2022-08-14
+permalink: /posts/2022/08/blog-post-11/
 ---
 +++
 descr = "Investigating the Woodbury formula and the Sherman-Morrison formula."
