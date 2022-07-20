@@ -1,15 +1,14 @@
 ---
-title: 'Convex Optimisation-Intro'
+title: 'Convex Optimization-Intro'
 permalink: /posts/2022/08/blog-post-10/
 ---
 
 <!--
 +++
-title = "Convex Optimisation &ndash; intro"
 descr = """
 	Introduction to the general convex minimisation problem and generic iterative methods.
 	"""
-tags = ["optimisation"]
+tags = ["optimization"]
 +++
 -->
 
@@ -22,11 +21,11 @@ TODO:
 * add link to mirror descent (same place)
 -->
 
-# Introduction to convex optimisation
+# Introduction to convex optimization
 
 {{page_tags}}
 
-We'll consider the standard *constrained minimisation problem* in convex optimisation:
+We'll consider the standard *constrained minimisation problem* in convex optimization:
 
 $$
 	\min_{x\in C}\quad f(x) \label{initial-min-problem}
