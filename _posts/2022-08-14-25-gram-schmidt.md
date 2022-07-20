@@ -3,15 +3,12 @@ title: 'Gram-Schmidt Orthogonalisation'
 date: 2022-08-14
 permalink: /posts/2022/08/blog-post-14/
 ---
-<!--
 
-+++
+<!--
 descr = """
     Gram-Schmidt, Modified Gram-Schmidt, QR factorisation, with code.
     """
 tags = ["linear algebra", "code"]
-+++
-
 -->
 
 # Gram-Schmidt Procedure
