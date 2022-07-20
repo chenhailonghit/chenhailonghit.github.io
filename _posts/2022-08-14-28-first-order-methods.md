@@ -3,6 +3,7 @@ title: 'First order methods'
 date: 2022-08-14
 permalink: /posts/2022/08/blog-post-16/
 ---
+<!--
 +++
 title = "First order methods"
 descr = """
@@ -11,6 +12,7 @@ descr = """
   """
 tags = ["optimisation", "projected gradient descent", "prospective"]
 +++
+-->
 
 {{redirect /pub/csml/cvxopt/fom.html}}
 
