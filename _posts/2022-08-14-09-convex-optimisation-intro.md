@@ -1,7 +1,7 @@
 ---
 title: 'Convex Optimisation-Intro'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-10/
+date: 2022-08-14
+permalink: /posts/2022/08/blog-post-10/
 ---
 +++
 title = "Convex Optimisation &ndash; intro"
