@@ -6,7 +6,6 @@ permalink: /posts/2022/08/blog-post-12/
 
 <!--
 +++
-title = "Convex analysis &ndash; pt. I"
 descr = """
     The subdifferential and the First-order Optimality Condition (FOC).
     """
