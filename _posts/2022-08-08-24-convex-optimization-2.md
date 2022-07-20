@@ -1,5 +1,5 @@
 ---
-title: 'Convex Optimisation-2'
+title: 'Convex Optimization-2'
 date: 2022-08-08
 permalink: /posts/2022/08/blog-post-13/
 ---
@@ -8,7 +8,7 @@ permalink: /posts/2022/08/blog-post-13/
 
 <!--
 descr = """The convex conjugate, Fenchel's inequality, and the Fenchel-Moreau theorem."""
-tags = ["optimisation"]
+tags = ["optimization"]
 NOTE:
 last major review: 19/9/2018 ✅
 -->
