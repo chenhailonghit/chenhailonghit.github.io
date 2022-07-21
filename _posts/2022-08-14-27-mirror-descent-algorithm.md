@@ -1,5 +1,5 @@
 ---
-title = "Mirror descent algorithm"
+title = 'Mirror descent algorithm'
 date: 2022-08-14
 permalink: /posts/2022/08/blog-post-15/
 ---
