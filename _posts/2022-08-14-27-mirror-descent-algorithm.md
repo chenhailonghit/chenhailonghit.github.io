@@ -5,12 +5,10 @@ permalink: /posts/2022/08/blog-post-15/
 ---
 
 <!--
-+++
 descr = """
     The Generalised Projected Gradient Descent (GPGD) and the Mirror Descent Algorithm (MDA).
     """
 tags = ["optimisation", "projected gradient descent", "mirror descent"]
-+++
 -->
 
 {{redirect /pub/csml/cvxopt/mda.html}}
